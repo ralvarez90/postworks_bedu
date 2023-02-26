@@ -160,4 +160,4 @@ Transformar el siguiente contenido a HTML:
     And note that you can backslash-escape any punctuation characters
     which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 
-asdasd
+El código anterior se almacenará en un archivo **src > markdown > Código de example.md**
