@@ -1,0 +1,10 @@
+plugins {
+    id 'org.kordamp.gradle.markdown' version '2.2.0'
+}
+
+// tarea de prueba
+task testTask {
+    doLast {
+        println 'Ejecutando prueba...'
+    }
+}
